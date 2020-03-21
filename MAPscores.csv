@@ -1,0 +1,22 @@
+class,MAP
+aeroplane,0.967
+bicycle,0.862
+bird,0.938
+boat,0.872
+bottle,0.597
+bus,0.929
+car,0.823
+cat,0.954
+chair,0.74
+cow,0.759
+diningtable,0.667
+dog,0.904
+horse,0.87
+motorbike,0.892
+person,0.955
+pottedplant,0.602
+sheep,0.856
+sofa,0.624
+train,0.943
+tvmonitor,0.861
+macro avg all,0.831
