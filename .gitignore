@@ -1,8 +1,8 @@
 VOCtrainval_11-May-2012/
 .ipynb_checkpoints
 .vscode
-.xlsx
-.zip
+*.xlsx
+*.zip
 __pycache__
-.docx
-.005
+*.docx
+*.005
